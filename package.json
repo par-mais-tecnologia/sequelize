@@ -1,5 +1,5 @@
 {
-  "name": "sequelize",
+  "name": "@parmais/sequelize",
   "description": "Multi dialect ORM for Node.JS",
   "version": "6.0.0-beta.6",
   "maintainers": [
@@ -11,7 +11,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/sequelize/sequelize.git"
+    "url": "git+https://github.com:par-mais-tecnologia/sequelize.git"
   },
   "bugs": {
     "url": "https://github.com/sequelize/sequelize/issues"
